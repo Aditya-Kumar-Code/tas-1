@@ -1,7 +1,6 @@
 {
     "name": "task1",
     "version": "0.1.0",
-
     "homepage": "https://aditya-kumar-code.github.io/tas-1 ",
     "private": true,
     "dependencies": {
